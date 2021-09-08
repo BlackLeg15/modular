@@ -4,17 +4,16 @@ sidebar_position: 1
 
 # Welcome to Modular
 
-Vamos descobrir como implementar uma estrutura Modular em seu projeto.
+Let's discover how to implement a Modular structure in your project
 
-## O que é o Modular?
+## What is Modular?
 
-O Modular se propõem a resolver dois problemas:
-- Rotas modularizadas.
-- Injeção de Dependências modularizadas.
+Modular proposes to resolve two problems:
+- Modular routes
+- Modular dependency injection
 
-Em um cenário monolítico, onde temos toda a nossa aplicação como um único módulo, concebemos nosso software de forma rápida e
-elegante aproveitando todos os incríveis recursos do Flutter💙. Porém, produzir um app com um porte maior de forma "monolítica"
-pode gerar débito técnicos tanto na parte de manutenção quanto na escalabilidade. Pensando nisso, os desenvolvedores adotaram estratégias arquiteturais para dividir melhor o código, minimizando os impactos negativos na manutenabilidade e escalabilidade do projeto.
+Modular dependency injection
+In a monolithic scenario, where we have all of our application as a single module, we devise our software in a fast, elegant way and enjoying all the Flutter's amazing resources 💙. But, to produce a big app in a monolithic way may produce technical debt as in the maintain as in the scability. Thus, the developers adopted architectural strategies to better divide the code, minimizing the negative impacts on the project's maintainability and scalability.
 
 Ao dividir melhor o escopo das features ganhamos:
 
